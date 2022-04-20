@@ -3,4 +3,8 @@ I want this to go into commit 2
 changed by harry
 this is changed now
 This is changed by sanket again
+<<<<<<< HEAD
 this is master branch
+=======
+again
+>>>>>>> develop
